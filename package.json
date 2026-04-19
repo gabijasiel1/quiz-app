@@ -7,9 +7,7 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
-    "export:web": "expo export --platform web",
-    "prepare-pages": "powershell -ExecutionPolicy Bypass -File .\\scripts\\prepare-pages.ps1"
+    "web": "expo start --web"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.18",
