@@ -16,3 +16,11 @@ Simple React Native quiz app for the assignment.
 npm install
 npm start
 ```
+
+## GitHub Pages
+
+```bash
+npm run prepare-pages
+```
+
+This creates a `docs` folder ready for GitHub Pages.
